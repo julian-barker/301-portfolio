@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Ursula Lopez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Hi, I’m Julian! (or Jack, to some) ",
+      "description": "I'm a junior software developer and tech enthusiast. Prior to this, I was an Infantry Officer in the US Army for 6 years and held several managerial and leadership roles during that time. While I loved certain aspects of that profession, I wanted to do something more cerebral, and I also realized that the military is neither the only nor even necessarily the best way to serve. That’s primarily what led me to exit the service, but my degree in electrical engineering and my lifelong fascination with computers are really what led me to pursue software development. My proclivity for problem-solving, and that love-hate relationship with being stumped on a tough problem make me a natural fit . I'm now strongnin common frontend frameworks and languages and have a firm understanding of basic data structures and algorithms. Some of my greatest strengths are my openness to discourse and criticism, as well as a hunger and ability to rapidly learn new skills and tools.  I'm looking for opportunities to contribute and hone my skills in a team of talented devs, and would love to one day touch some of some of our world's greatest problem sets, such as climate change and clean energy, and artificial intelligence.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,8 +11,8 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
+        "title": "Gallery of Horns",
+        "startDate": "2022",
         "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
         "images": [
           "images/portfolio/animal-shelter/p1.jpg",
@@ -35,7 +35,7 @@
         ]
       },
       {
-        "title": "Photography",
+        "title": "Gitris",
         "startDate": "2018",
         "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
         "images": [
