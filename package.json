@@ -5,6 +5,8 @@
   "dependencies": {
     "@brookr/react-switch": "^6.0.1",
     "bootstrap": "^5.2.1",
+    "devicon": "^2.15.1",
+    "help": "^3.0.2",
     "jquery": "^3.6.1",
     "react": "^18.2.0",
     "react-awesome-slider": "^4.1.0",

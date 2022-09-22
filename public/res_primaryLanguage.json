@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi, I’m Julian! (or Jack, to some) ",
-      "description": "I'm a junior software developer and tech enthusiast. Prior to this, I was an Infantry Officer in the US Army for 6 years and held several managerial and leadership roles during that time. While I loved certain aspects of that profession, I wanted to do something more cerebral, and I also realized that the military is neither the only nor even necessarily the best way to serve. That’s primarily what led me to exit the service, but my degree in electrical engineering and my lifelong fascination with computers are really what led me to pursue software development. My proclivity for problem-solving, and that love-hate relationship with being stumped on a tough problem make me a natural fit . I'm now strongnin common frontend frameworks and languages and have a firm understanding of basic data structures and algorithms. Some of my greatest strengths are my openness to discourse and criticism, as well as a hunger and ability to rapidly learn new skills and tools.  I'm looking for opportunities to contribute and hone my skills in a team of talented devs, and would love to one day touch some of some of our world's greatest problem sets, such as climate change and clean energy, and artificial intelligence.",
+      "description": "I'm a junior software developer and tech enthusiast. Prior to this, I was an Infantry Officer in the US Army for 6 years and held several managerial and leadership roles during that time. While I loved certain aspects of that profession, I wanted to do something more cerebral, and I also realized that the military is neither the only nor even necessarily the best way to serve. That’s primarily what led me to exit the service, but my degree in electrical engineering and my lifelong fascination with computers are really what led me to pursue software development. My proclivity for problem-solving, and that love-hate relationship with being stumped on a tough problem make me a natural fit . I'm now strong in common frontend frameworks and languages and have a firm understanding of basic data structures and algorithms. Some of my greatest strengths are my openness to discourse and criticism, as well as a hunger and ability to rapidly learn new skills and tools.  I'm looking for opportunities to contribute and hone my skills in a team of talented devs, and would love to one day touch some of some of our world's greatest problem sets, such as climate change and clean energy, and artificial intelligence.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,26 +11,58 @@
     },
     "projects": [
       {
-        "title": "Gallery of Horns",
+        "title": "301 final Project",
         "startDate": "2022",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "https://via.placeholder.com/600x400.jpg?text=Coming+Soon",
+          "https://via.placeholder.com/600x400/ab6ded/e6e6e6.jpg?text=Still+Coming+Soon"
         ],
-        "url": "",
+        "url": "https://github.com/julian-barker/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-plain",
+            "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-tailwindcss-original-wordmark",
+            "name": "Tailwind CSS"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          }
+        ]
+      },
+      {
+        "title": "Gallery of Horns",
+        "startDate": "2022",
+        "description": "This page is built in React and displays a set of card with images and descriptions of things with horns. Users can \"like\" an image and it will dynamically display heart icons for <10 hearts, or a compact number for >10 hearts. The page has modal functionality, basic fuzzy search, filtering by number of horns, and sorting by likes, number of horns, id, and name.",
+        "images": [
+          "images/portfolio/horns/p1.jpg",
+          "images/portfolio/horns/p2.jpg"
+        ],
+        "url": "https://julians-horned-beasts.netlify.app/",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
           }
         ]
       },
@@ -39,72 +71,67 @@
         "startDate": "2018",
         "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/gitris/p1.jpg",
+          "images/portfolio/gitris/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://julian-barker.github.io/game-site/",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-github-original",
+            "name": "Github Pages"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "CodeFellows",
+        "title": "Student",
+        "years": "08.2022 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "JavaScript"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "HTML 5",
+          "CSS 3",
           "JavaScript",
+          "React",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Express",
+          "MongoDB",
+          "Netlify"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "US Army",
+        "title": "Infantry Officer",
+        "years": "06.2016 - 08.2022",
         "mainTech": [
-          "Angular 7/8"
+          "MS 365"
+        ],
+        "technologies": [
+          "MS Teams",
+          "MS Office"
+        ]
+      },
+      {
+        "company": "United States Military Academy (West Point)",
+        "title": "Student",
+        "years": "06.2012 - 05.2016",
+        "mainTech": [
+          "MATLAB"
         ],
         "technologies": [
           "RxJS",
