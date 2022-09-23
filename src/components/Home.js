@@ -6,7 +6,7 @@ import Experience from "./Experience";
 class Home extends Component {
   render() {
     return (
-      <div>
+      <div className="font-monospace" >
         <Projects
           resumeProjects={this.props.resumeData.projects}
           resumeBasicInfo={this.props.resumeData.basic_info}
@@ -14,10 +14,12 @@ class Home extends Component {
         <Skills
           sharedSkills={this.props.sharedData.skills}
           resumeBasicInfo={this.props.resumeData.basic_info}
+          className='bg-tier-4'
         />
         <Experience
           resumeExperience={this.props.resumeData.experience}
           resumeBasicInfo={this.props.resumeData.basic_info}
+          className='bg-secondary'
         />
       </div>
     );

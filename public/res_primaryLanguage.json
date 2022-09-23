@@ -68,8 +68,8 @@
       },
       {
         "title": "Gitris",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "startDate": "2022",
+        "description": "This page recreates the classic game \"Tetris\", with all the same functionality, a localStorage leaderboard, and a localStorage darkmode preference. It also has \"How-to-Play\", \"Trivia\", and \"About the Team\" pages.",
         "images": [
           "images/portfolio/gitris/p1.jpg",
           "images/portfolio/gitris/p2.jpg"
@@ -133,13 +133,7 @@
         "mainTech": [
           "MATLAB"
         ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
+        "technologies": []
       }
     ]
   }

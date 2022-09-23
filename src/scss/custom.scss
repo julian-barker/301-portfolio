@@ -1,0 +1,64 @@
+
+/* Color Theme Swatches in RGBA */
+$purples-1: rgba(84,4,41, 1);
+$purples-2: rgba(94,4,92, 1);
+$purples-3: rgba(52,0,71, 1);
+$purples-4: rgba(45,4,94, 1);
+$purples-5: rgba(18,4,84, 1);
+
+
+/* Color Theme Swatches in RGBA */
+$mpl-1: rgba(68,34,90, 1);
+$mpl-2: rgba(131,139,51, 1);
+$mpl-3: rgba(191,216,51, 1);
+$mpl-4: rgba(173,109,161, 1);
+$mpl-5: rgba(118,40,100, 1);
+
+/* Color Theme Swatches in RGBA */
+$reds-1: rgba(164,5,15, 1);
+$reds-2: rgba(142,5,16, 1);
+$reds-3: rgba(88,4,7, 1);
+$reds-4: rgba(65,1,4, 1);
+$reds-5: rgba(217,54,73, 1);
+
+/* Color Theme Swatches in RGBA */
+$garden-1: #8c5888;
+$garden-2: #ab9396;
+$garden-3: #d6d9c2;
+$garden-4: #a7bb72;
+$garden-5: #bb7753;
+
+$blue:    #0d6efd;
+$indigo:  #6610f2;
+$purple:  #6f42c1;
+$pink:    #d63384;
+$red:     #dc3545;
+$orange:  #fd7e14;
+$yellow:  #ffc107;
+$green:   #198754;
+$teal:    #20c997;
+$cyan:    #0dcaf0;
+
+
+$primary:       $garden-1;
+$secondary:     $garden-2;
+$tertiary:      $garden-4;
+$quaternary:    $garden-5;
+$light:         #ccc;
+$dark:          #222;
+
+
+$theme-colors: (
+  "primary":    $primary,
+  "secondary":  $secondary,
+  "tertiary":   $tertiary,
+  "quaternary": $quaternary,
+  "light":      $light,
+  "dark":       $dark
+);
+
+$font-family-sans-serif: 'Fira Sans' system-ui, -apple-system, sans-serif;
+$font-family-monospace: 'Fira Code', monospace;
+
+
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";
