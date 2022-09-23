@@ -4,6 +4,18 @@
       "description": "I'm a junior software developer and tech enthusiast. Prior to this, I was an Infantry Officer in the US Army for 6 years and held several managerial and leadership roles during that time. While I loved certain aspects of that profession, I wanted to do something more cerebral, and I also realized that the military is neither the only nor even necessarily the best way to serve. That’s primarily what led me to exit the service, but my degree in electrical engineering and my lifelong fascination with computers are really what led me to pursue software development. My proclivity for problem-solving, and that love-hate relationship with being stumped on a tough problem make me a natural fit . I'm now strong in common frontend frameworks and languages and have a firm understanding of basic data structures and algorithms. Some of my greatest strengths are my openness to discourse and criticism, as well as a hunger and ability to rapidly learn new skills and tools.  I'm looking for opportunities to contribute and hone my skills in a team of talented devs, and would love to one day touch some of some of our world's greatest problem sets, such as climate change and clean energy, and artificial intelligence.",
       "section_name": {
         "about": "About me",
+        "articles": "Articles",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "articles_info": {
+      "description_header": "This is where I put my articles!",
+      "description": "I'm a junior software developer and tech enthusiast. Prior to this, I was an Infantry Officer in the US Army for 6 years and held several managerial and leadership roles during that time. While I loved certain aspects of that profession, I wanted to do something more cerebral, and I also realized that the military is neither the only nor even necessarily the best way to serve. That’s primarily what led me to exit the service, but my degree in electrical engineering and my lifelong fascination with computers are really what led me to pursue software development. My proclivity for problem-solving, and that love-hate relationship with being stumped on a tough problem make me a natural fit . I'm now strong in common frontend frameworks and languages and have a firm understanding of basic data structures and algorithms. Some of my greatest strengths are my openness to discourse and criticism, as well as a hunger and ability to rapidly learn new skills and tools.  I'm looking for opportunities to contribute and hone my skills in a team of talented devs, and would love to one day touch some of some of our world's greatest problem sets, such as climate change and clean energy, and artificial intelligence.",
+      "section_name": {
+        "about": "About me",
+        "articles": "Articles",
         "projects": "Projects",
         "skills": "Skills",
         "experience": "Experience"

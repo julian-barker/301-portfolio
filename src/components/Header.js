@@ -55,6 +55,11 @@ class Header extends Component {
               <Nav.Link eventKey="about" className="text-tertiary" >About</Nav.Link>
             </LinkContainer>
           </Nav.Item>
+          <Nav.Item>        
+            <LinkContainer to="/articles">
+              <Nav.Link eventKey="about" className="text-tertiary" >Articles</Nav.Link>
+            </LinkContainer>
+          </Nav.Item>
           <Nav.Item>
             <Switch 
               checked={this.state.checked}
